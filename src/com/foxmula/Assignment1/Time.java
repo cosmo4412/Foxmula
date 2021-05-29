@@ -1,7 +1,7 @@
-import java.util.*;
+package com.foxmula.Assignment1;
 
 public class Time {
-    private int hour, min, sec;
+	private int hour, min, sec;
 
     Time(int h, int m, int s) {
         hour = h;

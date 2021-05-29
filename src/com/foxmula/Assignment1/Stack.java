@@ -1,3 +1,4 @@
+package com.foxmula.Assignment1;
 import java.util.*;
 
 public class Stack {
