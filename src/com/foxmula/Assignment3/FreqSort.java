@@ -16,7 +16,6 @@ public class FreqSort {
 		for(int i : set) {
 			map.put(i, Collections.frequency(a, i));
 		}
-		
 		return map;
 	}
 	
